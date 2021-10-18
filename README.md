@@ -12,8 +12,8 @@
 ---
 <div align="center">
   <a href="https://github.com/TKTRON44">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TKTRON44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKTRON44&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TKTRON44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKTRON44&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ### Connect with me:
