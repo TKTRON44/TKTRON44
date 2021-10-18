@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Daniel Moura - aka [TKTRON][website] 👋
 
 [![Website](https://img.shields.io/website?label=Daniel&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/daniel-moura-728393189/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tktrongames?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Tktrongames)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Tktrongames?color=1DA1D2&logo=twitter&style=for-the-badge)](https://twitter.com/Tktrongames)
 
 ## Sou um dev em ascenção que está criando sua própria história na carreira de tecnologia!!
 
@@ -9,6 +9,12 @@
 - 👯 Estou atualmente estudando em busca de uma empresa para alavancar minha noção em desenvolvimento.
 - 🥅 Objetivos para 2021/2022: Manter-me apto para aumentar meu conhecimento e conhecer mais desse mundo!
 - ⚡ Curiosidade: Sou um profissional em pen spinning 🖋
+---
+<div align="center">
+  <a href="https://github.com/TKTRON44">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TKTRON44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKTRON44&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ### Connect with me:
 
