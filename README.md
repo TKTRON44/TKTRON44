@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Daniel Moura - aka [TKTRON][website] 👋
 
 [![Website](https://img.shields.io/website?label=Daniel&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/daniel-moura-728393189/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tktrongames?color=1DA1D2&logo=twitter&style=for-the-badge)](https://twitter.com/Tktrongames)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Daniel?color=1DA1D2&logo=twitter&style=for-the-badge)](https://twitter.com/dmouratk)
 
 ## Sou um dev em ascenção que está criando sua própria história na carreira de tecnologia!!
 
