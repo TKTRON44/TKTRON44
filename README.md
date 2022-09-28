@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/dmouratk" target="blank"><img src="https://img.shields.io/twitter/follow/dmouratk?logo=twitter&style=for-the-badge" alt="dmouratk" /></a> </p>
 
-- 👨‍💻 Portifólio [Em desenvolvimento (☞ﾟヮﾟ)☞](Em desenvolvimento (☞ﾟヮﾟ)☞)
+- 👨‍💻 Portifólio [Em desenvolvimento (☞ﾟヮﾟ)☞]
 
-- 📫 How to reach me **danielmourabqo@gmail.com**
+- 📫 Meu email **danielmourabqo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
